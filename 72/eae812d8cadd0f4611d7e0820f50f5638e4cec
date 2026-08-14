@@ -1,0 +1,21 @@
+packages/ui/components/CommentPopover.tsx
+  s_12b614fe471488::t_8b91615bbb8793 952,954
+packages/ui/components/CommentPopover.skillReferences.test.tsx
+  s_12b614fe471488::t_8b91615bbb8793 142-143,145-146,149,201-204,206,210,226,228
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "72eae812d8cadd0f4611d7e0820f50f5638e4cec",
+  "prompts": {},
+  "sessions": {
+    "s_12b614fe471488": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ffe7b-bccb-75e0-b8fc-fcd165bbc224",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ashish Huddar <ashish.hudar@gmail.com>"
+    }
+  }
+}
